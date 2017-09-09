@@ -15,8 +15,8 @@ var two = 2
 }
 
 var funkyFunction = function() {
-  var = function() {
+  return function() {
     return "FUNKY!"
   }
 }
-  var theFunk = funkyFunction();
+  var theFunk = funkyFunction()
