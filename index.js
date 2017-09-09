@@ -15,7 +15,7 @@ var two = 2
 }
 
 var funkyFunction = function() {
-  var function() {
+  var = function() {
     return "FUNKY!"
   }
 }
